@@ -1,7 +1,7 @@
 # Daily Updates Covid19 Stats (Worldwide)
 With latest CoronaVirus (COVID-19) outbreak, this app helps you to monitor current situation of the outbreak.
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pinpng.com%2Fpngs%2Fm%2F683-6836698_transparent-google-play-icon-png-android-available-on.png&imgrefurl=https%3A%2F%2Fwww.pinpng.com%2Fpicture%2FTiixowh_transparent-google-play-icon-png-android-available-on%2F%23%3A~%3Atext%3DFree%2520Download&tbnid=SGlgibnakCkAEM&vet=12ahUKEwj_lb-mk5rrAhU-oEsFHT1QDLgQMygEegUIARCnAQ..i&docid=gQhlvwUpETPxrM&w=840&h=376&q=play%20store%20icon%20png%20download&ved=2ahUKEwj_lb-mk5rrAhU-oEsFHT1QDLgQMygEegUIARCnAQ">
+<img src="https://camo.githubusercontent.com/59c5c810fc8363f8488c3a36fc78f89990d13e99/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67">
 
 <h3>Features</h3>
 •	Access the main latest stats of COVID-19 Outbreak like number of cases, deaths and recoveries.<br>
