@@ -2,10 +2,10 @@
 With latest CoronaVirus (COVID-19) outbreak, this app helps you to monitor current situation of the outbreak.
 
 <div align="center">
-    <img src="/screenshots/screenshot 1.png" width="200px" height="400pxs"/>
-    <img src="/screenshots/screenshot 2.png" width="200px" height="400pxs"/>
-    <img src="/screenshots/screenshot 3.png" width="200px" height="400pxs"/>
-    <img src="/screenshots/screenshot 4.png" width="200px" height="400pxs"/>
+    <img src="/screenshots/screenshot 1.jpg" width="200px" height="400pxs"/>
+    <img src="/screenshots/screenshot 2.jpg" width="200px" height="400pxs"/>
+    <img src="/screenshots/screenshot 3.jpg" width="200px" height="400pxs"/>
+    <img src="/screenshots/screenshot 4.jpg" width="200px" height="400pxs"/>
 </div>
 
 <h3>Features</h3>
